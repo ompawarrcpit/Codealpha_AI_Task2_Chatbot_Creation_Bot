@@ -1,1 +1,2 @@
-# Codealpha_AI_Task2_Chatbot_Creation_Bot
+# Artificial-Intelligence-Task1
+This is my CodeAlpha internship task1 in domain Artificial Intelligence. It is about the language detection and translation tool
